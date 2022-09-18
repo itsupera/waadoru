@@ -1,7 +1,7 @@
 # わーどる（Waadoru）
 
 This game is a [Wordle](https://www.powerlanguage.co.uk/wordle/) clone in Japanese, adapted for Japanese learners.
-You have to guess Japanese words of a given length, among the 10000 most frequent words found on Netflix.
+You have to guess Japanese words of a given length, coming from JLPT listings or most frequent words found on Netflix.
 
 Play it [here](https://itsupera.github.io/waadoru/)!
 
