@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/waadoru/static/css/main.7cce0ead.css",
+    "main.js": "/waadoru/static/js/main.b26c2acb.js",
+    "index.html": "/waadoru/index.html",
+    "main.7cce0ead.css.map": "/waadoru/static/css/main.7cce0ead.css.map",
+    "main.b26c2acb.js.map": "/waadoru/static/js/main.b26c2acb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cce0ead.css",
+    "static/js/main.b26c2acb.js"
+  ]
+}
